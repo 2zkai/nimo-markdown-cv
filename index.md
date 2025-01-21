@@ -9,7 +9,7 @@ homepage:
   text: wodenimoni.com
 ---
 
-# Wode **Ni**
+# Zhikai **Zhao**
 
 <!--
 include contact information from the front matter
@@ -39,7 +39,7 @@ Pittsburgh, PA
 New York, NY
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
+- B.S. in Robotics Engineering
 - Vision, Graphics track
 
 ### **Dickinson College** `2013.9 - 2016.5`
